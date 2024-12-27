@@ -1,5 +1,6 @@
 ## Hi I'm Tomás 👋
-![Sin título](https://github.com/user-attachments/assets/decfe5e9-54f1-4cfb-b1e4-18cccb3cda0e)
+![gigit](https://github.com/user-attachments/assets/47a0fd42-9af9-4625-8651-169c8d830178)
+
 
 <!--
 **TomasBaez91/Tomasbaez91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
