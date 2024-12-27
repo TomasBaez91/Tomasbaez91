@@ -9,5 +9,6 @@
 About me:
 
 - 🌱 Cross-platform application developer.
-- ⚡️Switf and Kotlin are my strong points.
-- I love designing in html and php
+- ⚡️ Switf and Kotlin are my strong points.
+- 👨🏽‍💻 I love designing in html and php.
+- 🧠 Always learning and updating my brain data system.
